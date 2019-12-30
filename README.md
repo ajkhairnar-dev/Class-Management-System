@@ -1,1 +1,1 @@
-# Class-Management-System
+# Seed App
